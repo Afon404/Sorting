@@ -1,0 +1,15 @@
+D:\Рабочий стол\Selection\bin\Debug\net7.0\Selection.exe
+D:\Рабочий стол\Selection\bin\Debug\net7.0\Selection.deps.json
+D:\Рабочий стол\Selection\bin\Debug\net7.0\Selection.runtimeconfig.json
+D:\Рабочий стол\Selection\bin\Debug\net7.0\Selection.dll
+D:\Рабочий стол\Selection\bin\Debug\net7.0\Selection.pdb
+D:\Рабочий стол\Selection\obj\Debug\net7.0\Selection.csproj.AssemblyReference.cache
+D:\Рабочий стол\Selection\obj\Debug\net7.0\Selection.GeneratedMSBuildEditorConfig.editorconfig
+D:\Рабочий стол\Selection\obj\Debug\net7.0\Selection.AssemblyInfoInputs.cache
+D:\Рабочий стол\Selection\obj\Debug\net7.0\Selection.AssemblyInfo.cs
+D:\Рабочий стол\Selection\obj\Debug\net7.0\Selection.csproj.CoreCompileInputs.cache
+D:\Рабочий стол\Selection\obj\Debug\net7.0\Selection.dll
+D:\Рабочий стол\Selection\obj\Debug\net7.0\refint\Selection.dll
+D:\Рабочий стол\Selection\obj\Debug\net7.0\Selection.pdb
+D:\Рабочий стол\Selection\obj\Debug\net7.0\Selection.genruntimeconfig.cache
+D:\Рабочий стол\Selection\obj\Debug\net7.0\ref\Selection.dll
